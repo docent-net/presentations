@@ -15,7 +15,7 @@ You can find those also on my [SlideShare profile](http://www.slideshare.net/d0c
 - **devops_meetup_2_ha_explained.pdf** - High Availability Explained; DevOPS meetup #2 2014
 - **devops_meetup_3_docker-rhel.pdf** - RHEL/Fedora + Docker; DevOPS meetup #3 2014
 - **docker_meetup_1_orchestrating_docker_containers.pdf** - Orchestrating Docker containers at scale; DockerKRK meetup 1 2015
-- **docker_meetup_2_overlayfs** - OverlayFS; DockerKRK meetup 2 2015
+- **docker_meetup_2_overlayfs.pdf** - OverlayFS; DockerKRK meetup 2 2015
 - **ghost_in_the_shell.pdf** - Ghost in the Shell; Noc Informatyka 2014
 - **infosec_meetup_1_selinux.pdf** - Stop Disabling SELinux; InfoSec meetup #1 2014
 - **linux_autumn_2014_orchestrating_docker_containers.pdf** - Orchestrating Docker containers at scale; Linux Autumn Conference 2014
